@@ -18,9 +18,7 @@
 
 ## 输入格式
 
-第一行一个整数 n，表示需要帮助的同学的数量。
-
-接下来有 2*n 行，每行一个由小写英文字母组成的字符串。这 2*n 行中，第 2*(i-1) 行的字符串表示第 i 个同学的名字，第 2*i 行的字符串表示第 i 个同学的求助信号。
+一行，以空格分割多个字符串。奇数位置的字符串表示某同学的名字，其后的偶数位置的字符串表示其求助信号。
 
 ## 输出格式
 
@@ -28,25 +26,20 @@
 
 第二行一个整数，表示最需要帮助的同学的求救信号中包含有多少个 sos 子串。
 
-## 样例 
+## 样例
 
-### 样例输入 
-
-```
-2
-YMlx
-zibiinghelpsosineedhelpsoswuyuzhong
-suck
-yineedmorehelpsoshelpcmesossoshelpmez
-```
-
-### 样例输出 
+### 样例输入
 
 ```
-suck
+YMlx zibiinghelpsosineedhelpsoswuyuzhong highscore yineedmorehelpsoshelpcmesossoshelpmez
+```
+
+### 样例输出
+
+```
+highscore
 3
 ```
-
 
 ## 提示
 
