@@ -1,0 +1,10 @@
+std.exe <suck0.in> suck0.out
+std.exe <suck1.in> suck1.out
+std.exe <suck2.in> suck2.out
+std.exe <suck3.in> suck3.out
+std.exe <suck4.in> suck4.out
+std.exe <suck5.in> suck5.out
+std.exe <suck6.in> suck6.out
+std.exe <suck7.in> suck7.out
+std.exe <suck8.in> suck8.out
+std.exe <suck9.in> suck9.out
