@@ -1,8 +1,8 @@
-from math import log2, ceil
+from math import log2, floor
 
 
 def main(x):
-    return ceil(log2(int(x)))+1
+    return floor(log2(int(x)+1)+1)
 
 
 if __name__ == '__main__':
