@@ -1,0 +1,10 @@
+std.exe <0.in> 0.out
+std.exe <1.in> 1.out
+std.exe <2.in> 2.out
+std.exe <3.in> 3.out
+std.exe <4.in> 4.out
+std.exe <5.in> 5.out
+std.exe <6.in> 6.out
+std.exe <7.in> 7.out
+std.exe <8.in> 8.out
+std.exe <9.in> 9.out
